@@ -11,6 +11,14 @@
         "com.unity.xr.core-utils": "2.1.0"
       }
     },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.1.4"
+      }
+    },
     "com.microsoft.mrtk.graphicstools.unity": {
       "version": "file:MixedReality/com.microsoft.mrtk.graphicstools.unity-0.7.1.tgz",
       "depth": 0,

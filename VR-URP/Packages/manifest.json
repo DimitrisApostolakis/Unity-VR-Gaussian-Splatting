@@ -11,6 +11,7 @@
   ],
   "dependencies": {
     "com.microsoft.mixedreality.openxr": "file:MixedReality/com.microsoft.mixedreality.openxr-1.11.1.tgz",
+    "com.microsoft.mixedreality.toolkit.standardassets": "file:MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz",
     "com.microsoft.mrtk.graphicstools.unity": "file:MixedReality/com.microsoft.mrtk.graphicstools.unity-0.7.1.tgz",
     "com.tayx.graphy": "3.0.5",
     "com.unity.cloud.gltfast": "6.7.1",
